@@ -3,8 +3,7 @@ Jamboree has helped thousands of students like you make it to top colleges abroa
 ## 🎯 Objective
 This analysis is aimed to help Jamboree in understanding what factors are important in graduate admissions and how these factors are interrelated among themselves. The correlation of different factors with the target variable are to be analysed as well as between different variables. The relation can be verified by formulating a Linear Regression model using the variables. It will also help predict one's chances of admission given the rest of the variables.
 ## 📝 Project Report
-- You can access the complete project python file here - [[Python]](https://github.com/nikhilsree5/EcommCRM/blob/main/Ecomm_CRM%20.ipynb)
-- You can access the complete project in pdf format here - [Report](https://github.com/nikhilsree5/EcommCRM/blob/main/Ecom%20CRM.pdf)
+- You can access the complete project python file here - [[Python]](https://github.com/nikhilsree5/Jamboree-Education---Linear-Regression/blob/main/Jamboree_Education_Business_Case%20(1).ipynb)
 ## 📚 About Data
 The data contains 500 entries of students and 8 attributes like GRE score and TOEFL score. GRE scores vary from 290 to 340 where TOEFL score vary from 92 to 120. They follow non normal distribution with mean value of 316.47 and 207.19 respectively.CGPA is varying from 6.8 to 9.92. It follows a normal distribution with mean value of 8.58. 280 students among the 500 have research experience.
 
